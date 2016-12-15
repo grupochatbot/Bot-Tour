@@ -1,0 +1,15 @@
+{
+  "name": "Bot-Tour",
+  "version": "0.0.0",
+  "description": "Chabot desarrollado con la finalidad de proveer información acerca de pequeñas poblaciones en Ecuador dedicadas al turismo",
+  "main": "behavior/scripts/index.js",
+  "scripts": {
+    "start": "initai-dev-server"
+  },
+  "author": "<my-name> <<my-email-address>>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "initai-dev-server": "^0.4.8",
+    "initai-node": "~0.0.7"
+  }
+}
